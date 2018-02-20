@@ -2,3 +2,4 @@ alt/
 .git/
 words info.txt
 data/
+.gitignore
